@@ -185,3 +185,19 @@ body{
 .footer a:hover {
     text-decoration: underline;
 }
+
+/*Register form */
+.login__container--link a{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.login__container--link a{
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.login__container--link a:hover{
+    text-decoration: underline;
+}
